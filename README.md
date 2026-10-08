@@ -25,7 +25,7 @@
 ## 🌐 Live Application
 
 > 🚀 **Try CineMind:**  
-> Add your deployed Streamlit URL here.
+> https://cinemind-874.streamlit.app/.
 
 <p align="center">
 
